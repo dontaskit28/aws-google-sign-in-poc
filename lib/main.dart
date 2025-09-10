@@ -91,8 +91,7 @@ class _MyAppState extends State<MyApp> {
           ''';
         });
 
-        safePrint('ID Token: ${idToken.substring(0, 400)}');
-        safePrint('ID Token: ${idToken.substring(400)}');
+        safePrint('ID Token: $idToken');
         safePrint('Access Token: $accessToken');
         safePrint('Refresh Token: $refreshToken');
       }
