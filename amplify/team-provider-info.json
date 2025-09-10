@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aijobportalmobile-dev-fa329-authRole",
+      "UnauthRoleArn": "arn:aws:iam::603414745522:role/amplify-aijobportalmobile-dev-fa329-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::603414745522:role/amplify-aijobportalmobile-dev-fa329-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-aijobportalmobile-dev-fa329-deployment",
+      "UnauthRoleName": "amplify-aijobportalmobile-dev-fa329-unauthRole",
+      "StackName": "amplify-aijobportalmobile-dev-fa329",
+      "StackId": "arn:aws:cloudformation:ap-south-1:603414745522:stack/amplify-aijobportalmobile-dev-fa329/68f9bca0-8e15-11f0-a83f-0a8507d36c07",
+      "AmplifyAppId": "dlhblrxufdakh"
+    },
+    "categories": {
+      "auth": {
+        "aijobportalmobile84ad7771": {}
+      }
+    }
+  }
+}
